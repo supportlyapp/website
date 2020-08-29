@@ -1,0 +1,8 @@
+{
+    "title": "Supportly app",
+    "url": "/docs",
+    "logo": {
+        "light": "/docs/cowpay-logo-light.png",
+        "dark": "/docs/cowpay-logo-dark.png"
+    }
+}
